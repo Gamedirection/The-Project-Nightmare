@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ProjectNightmareV4.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ActionGameFramework\Health\DamageCollider.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ActionGameFramework\Health\DamageCollider.cs" Line="33" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

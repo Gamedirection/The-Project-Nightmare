@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Core\Utilities\PoolManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Core\UI\IMainMenuPage.cs" Line="6" Column="6" />
+      <File FileName="Assets\Scripts\Core\UI\MainMenu.cs" Line="81" Column="48" />
+      <File FileName="Assets\Scripts\Core\UI\BasicAnimatingMainMenuPage.cs" Line="4" Column="12" />
+      <File FileName="Assets\Scripts\Core\UI\AnimatingMainMenuPage.cs" Line="7" Column="12" />
+      <File FileName="Assets\Scripts\Core\UI\Modal.cs" Line="22" Column="11" />
+      <File FileName="Assets\Scripts\Core\UI\SimpleMainMenuPage.cs" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\Core\Utilities\PoolManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

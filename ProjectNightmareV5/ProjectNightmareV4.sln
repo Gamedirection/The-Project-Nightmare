@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectNightmareV4", "ProjectNightmareV4.csproj", "{249E89FD-5C15-E959-6B05-1709B83A1BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectNightmareV4.Editor", "ProjectNightmareV4.Editor.csproj", "{17CBE82C-41E5-4142-2E9C-646F0D5DC15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249E89FD-5C15-E959-6B05-1709B83A1BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249E89FD-5C15-E959-6B05-1709B83A1BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249E89FD-5C15-E959-6B05-1709B83A1BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249E89FD-5C15-E959-6B05-1709B83A1BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CBE82C-41E5-4142-2E9C-646F0D5DC15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CBE82C-41E5-4142-2E9C-646F0D5DC15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CBE82C-41E5-4142-2E9C-646F0D5DC15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CBE82C-41E5-4142-2E9C-646F0D5DC15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
