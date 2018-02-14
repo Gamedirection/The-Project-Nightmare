@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 43
     width: 1920
     height: 997
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 39
+  controlID: 117
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 467
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 361
     height: 651
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 40
+  controlID: 10
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 41
+  controlID: 11
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 743
     width: 1451
     height: 275
@@ -352,33 +352,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs/Enemies/Creeps/Materials
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs/Enemies/Creeps/Materials
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\apsierputowski\Desktop\ProjectNightmareV4
+  m_LastProjectPath: D:\apsierputowski\Documents\GitHub\The-Project-Nightmare\ProjectNightmareV5
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 206}
-    m_SelectedIDs: 982f0000
-    m_LastClickedID: 12184
-    m_ExpandedIDs: 0000000094280000482a0000d02a0000fc2a0000042b0000202b00005c2c00007a2c0000ce2c0000902d0000962d0000b42d0000ba2e0000ee2e0000982f0000b8310000523200006e320000fe470000004800000248000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 94}
+    m_SelectedIDs: 283b0000
+    m_LastClickedID: 15144
+    m_ExpandedIDs: 000000009428000032290000082b0000102b00002c2b0000722c0000ee2c0000b42d0000ba2d0000d82d0000de2e0000122f00000a310000e83100008e320000ae320000bc3a0000be3a0000c03a0000cc3a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Particles
-      m_OriginalName: Particles
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12078
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -392,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000942800002a2900007e290000fc2a0000042b0000202b0000782b0000ba2b00005c2c0000ce2c00000c2d0000902d0000962d0000b42d0000ee2e0000942f0000b8310000523200006e320000fe4700000048000002480000
+    m_ExpandedIDs: 0000000094280000542a0000dc2a0000082b0000102b00002c2b0000722c0000902c0000ee2c0000b42d0000ba2d0000d82d0000de2e0000122f0000bc2f0000e83100008e320000ae320000bc3a0000be3a0000c03a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,15 +423,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: bc590000302d00009a7d0000c07d0000502a0000122b0000224e0000fa2c0000000000008e2a00000a5301007a2a000072c50500e02c0000b830000006140100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SquareGlow
-      m_OriginalName: SquareGlow
+      m_Name: Materials
+      m_OriginalName: Materials
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 61470
+      m_UserData: 15144
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 3375
+    x: 1455
     y: 92
     width: 465
     height: 926
@@ -502,29 +502,29 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 92
     width: 359
     height: 630
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 56cddaff9887e0ffb087e0ff0688e0ff0c88e0ff0e88e0ff2c88e0ff3288e0ff7a88e0fff488e0fffa88e0ff0889e0ff208ae0ff248ae0ff388ae0ff3e8ae0ff408ae0ff728ae0ffe48ae0ffe88ae0ffee8ae0fff28ae0fffa8ae0fffc8ae0ff088be0ff0c8be0ff248be0ff188ce0ffccc8ecff82fbfeff16fcffff000000005c4a0000684a0000c24a00003c4b00006c4b0000de4b0000104c00002c4c00007a4c0000b24c0000d84c0000324d0000b83d0100b23e0100805101006053010098530100c6530100
+    m_SelectedIDs: e4350000
+    m_LastClickedID: 13796
+    m_ExpandedIDs: 16fcffff0000000036340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Wall (1)
-      m_OriginalName: Wall (1)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -2062148
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -555,19 +555,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 2283
+    x: 363
     y: 92
     width: 1088
     height: 630
   m_SceneLighting: 1
-  lastFramingTime: 10991.805162334545
-  m_2DMode: 1
+  lastFramingTime: 8351.430783951879
+  m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 577.74243, y: 306.30054, z: -219.75}
+    m_Target: {x: 1.0965033, y: -8.673602, z: 5.584199}
     speed: 2
-    m_Value: {x: 577.74243, y: 306.30054, z: -219.75}
+    m_Value: {x: 1.0965033, y: -8.673602, z: 5.584199}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -582,26 +582,26 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    zGrid:
       m_Target: 1
       speed: 2
       m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: -0.38752738, y: -0.31019816, z: 0.140319, w: -0.85669184}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0.3875253, y: -0.3101965, z: 0.14031824, w: -0.85668725}
   m_Size:
-    m_Target: 691.5313
+    m_Target: 21.635792
     speed: 2
-    m_Value: 691.5313
+    m_Value: 21.635792
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
-  m_LastSceneViewRotation: {x: -0.1081481, y: 0.021720907, z: -0.002367493, w: -0.9938947}
+    m_Value: 0
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -629,7 +629,7 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 2283
+    x: 363
     y: 92
     width: 1088
     height: 630
